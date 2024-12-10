@@ -1,0 +1,195 @@
+# Russian translation.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Sergey Kharitonov <sergejharitonov001@gmail.com>, 2024.
+
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: io.github.lainsce.Emulsion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-10 11:12+0100\n"
+"PO-Revision-Date: 2024-12-10 15:50+0200\n"
+"Last-Translator: Sergey Kharitonov <sergejharitonov001@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GPT-4o\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+
+#: data/io.github.lainsce.Emulsion.desktop.in:3
+msgid "Emulsion"
+msgstr "Эмульсия"
+
+#: data/io.github.lainsce.Emulsion.desktop.in:6
+msgid "color;palette;library;hue;swatch;"
+msgstr "цвет;палитра;библиотека;оттенок;образец;"
+
+#: data/io.github.lainsce.Emulsion.appdata.xml.in:7
+msgid "Stock up on colors"
+msgstr "Запасайтесь цветами"
+
+#: data/io.github.lainsce.Emulsion.appdata.xml.in:9
+msgid "Store your palettes in an easy way, and edit them if needed."
+msgstr "Храните палитры в удобном месте и меняйте их при необходимости."
+
+#: data/io.github.lainsce.Emulsion.appdata.xml.in:18
+msgid "Lains"
+msgstr "Лейнс"
+
+#: data/io.github.lainsce.Emulsion.gschema.xml:6
+msgid "First Boot"
+msgstr "Первый запуск"
+
+#: data/io.github.lainsce.Emulsion.gschema.xml:7
+msgid "Whether to add the default palettes on first boot or not."
+msgstr "Добавлять стандартные палитры при первом запуске или нет."
+
+#: data/ui/cep.ui:32
+msgid "Name∶"
+msgstr "Имя∶"
+
+#: data/ui/cep.ui:62
+msgid "RGB"
+msgstr "КЗС"
+
+#: data/ui/cep.ui:81
+msgid "Red∶"
+msgstr "Красный∶"
+
+#: data/ui/cep.ui:100
+msgid "Green∶"
+msgstr "Зелёный∶"
+
+#: data/ui/cep.ui:119
+msgid "Blue∶"
+msgstr "Синий∶"
+
+#: data/ui/cep.ui:136
+msgid "Hex"
+msgstr "16-ричный"
+
+#: data/ui/cep.ui:156
+msgid "Color Hexcode∶"
+msgstr "16-ричный код цвета∶"
+
+#: data/ui/keys.ui:12
+msgctxt "shortcut window"
+msgid "General"
+msgstr "Общее"
+
+#: data/ui/keys.ui:16
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "Выйти"
+
+#: data/ui/menu.ui:7
+msgid "Keyboard Shortcuts"
+msgstr "Горячие клавиши"
+
+#: data/ui/menu.ui:11
+msgid "About Emulsion"
+msgstr "Об Эмульсии"
+
+#: data/ui/pid.ui:7
+msgid " "
+msgstr " "
+
+#: data/ui/pid.ui:27
+msgid "Cancel"
+msgstr "Отменить"
+
+#: data/ui/pid.ui:36
+msgid "Import Palette"
+msgstr "Импортировать палитру"
+
+#: data/ui/pid.ui:58
+msgid "Choose Image"
+msgstr "Выбрать изображение"
+
+#: data/ui/pid.ui:84
+msgid "Select an image to retrieve colors"
+msgstr "Выберите изображение для извлечения цветов"
+
+#: data/ui/window.ui:38
+msgid "Add Palette"
+msgstr "Добавить палитру"
+
+#: data/ui/window.ui:47
+msgid "Import Palette…"
+msgstr "Импортировать палитру…"
+
+#: data/ui/window.ui:89
+msgid "Go Back to Palettes View"
+msgstr "Вернуться к просмотру палитр"
+
+#: data/ui/window.ui:98
+msgid "Add Color to This Palette"
+msgstr "Добавить цвет в эту палитру"
+
+#: data/ui/window.ui:132
+msgid "Palettes"
+msgstr "Палитры"
+
+#: data/ui/window.ui:140
+msgid "Search for palettes"
+msgstr "Поиск палитр"
+
+#: data/ui/window.ui:168
+msgid "No Palettes"
+msgstr "Нет палитр"
+
+#: data/ui/window.ui:169
+msgid "Add a palette with the + button."
+msgstr "Добавьте палитру кнопкой +."
+
+#: data/ui/window.ui:210
+msgid "Copy Palette to Clipboard"
+msgstr "Скопировать палитру в буфер обмена"
+
+#: data/ui/window.ui:214
+msgid "Copy Palette Image to Clipboard"
+msgstr "Скопировать изображение палитры в буфер обмена"
+
+#: data/ui/window.ui:220
+msgid "Remove Palette"
+msgstr "Убрать палитру"
+
+#: data/ui/window.ui:318
+msgid "Pick Color"
+msgstr "Выбрать цвет"
+
+#: data/ui/window.ui:349
+msgid "Copy Hexcode to Clipboard"
+msgstr "Скопировать 16-ричный код в буфер обмена"
+
+#: data/ui/window.ui:353
+msgid "Copy RGB to Clipboard"
+msgstr "Скопировать КЗС в буфер обмена"
+
+#: data/ui/window.ui:359
+msgid "Remove Color from Palette"
+msgstr "Убрать цвет из палитры"
+
+#: src/pid.vala:95
+msgid "Import"
+msgstr "Импортировать"
+
+#: src/pid.vala:98
+msgid "Picture"
+msgstr "Картинка"
+
+#: src/window.vala:172
+msgid "Set New Palette Name"
+msgstr "Задайте имя новой палитры"
+
+#: src/window.vala:502
+msgid "Stock up on colors."
+msgstr "Запаситесь цветами."
+
+#: src/window.vala:508
+msgid "translator-credits"
+msgstr "Sergey Kharitonov <sergejharitonov001@gmail.com>"
